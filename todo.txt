@@ -1,0 +1,22 @@
+TO DOs for your website -----
+
+take pictures of 
+    - at least 6 sticker designs
+    - 3 examples of image (before) and illustration (after)
+    - take picture of collage of your stickers (for home pg header)
+
+choose a few fonts you might want to use
+    https://fonts.google.com/
+    - choose one font for headlines (H1, H2, H3)
+    - choose one font for body copy (p, li, etc.)
+    - example: https://fontpair.co/#sansserif-serif
+
+create a style document in procreate
+    - page background color (hex value)
+    - 2-3 colors you want to use (hex values)
+
+design your logo file with transparent background
+    - Make the Stickers by EC logo horizontal instead of vertical
+
+
+
