@@ -447,6 +447,9 @@ h1 {
   font-weight: 600;
   font-family: "Nunito", sans-serif;
 }
+h2 {
+  font-size: 2rem;
+}
 a {
   color: #ee6c4dff;
 }
